@@ -1,0 +1,2 @@
+rootProject.name='SN Scanner'
+include ':app'
