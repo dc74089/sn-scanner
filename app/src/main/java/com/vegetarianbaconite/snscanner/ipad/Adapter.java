@@ -1,4 +1,4 @@
-package com.vegetarianbaconite.snscanner;
+package com.vegetarianbaconite.snscanner.ipad;
 
 import android.util.Log;
 import android.view.LayoutInflater;

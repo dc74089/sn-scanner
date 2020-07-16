@@ -1,4 +1,4 @@
-package com.vegetarianbaconite.snscanner;
+package com.vegetarianbaconite.snscanner.macbook;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -19,6 +19,7 @@ import com.google.zxing.client.android.BeepManager;
 import com.journeyapps.barcodescanner.BarcodeResult;
 import com.journeyapps.barcodescanner.DecoratedBarcodeView;
 import com.journeyapps.barcodescanner.DefaultDecoderFactory;
+import com.vegetarianbaconite.snscanner.R;
 
 import java.util.Collection;
 import java.util.Collections;

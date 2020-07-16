@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SN Scanner</string>
+    <string name="ipad">iPad</string>
+    <string name="macbook">MacBook</string>
 </resources>
